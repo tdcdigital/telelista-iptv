@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AMC.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AMC_logo_2019.svg%20(1).png" group-title="Entretenimiento",AMC
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-id="AXN.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
+http://45.228.235.116:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/5ltnu.svg.webp" group-title="General",Canal 5
+https://tinyurl.com/canal5uy
+#EXTINF:-1 tvg-id="Cinecanal.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/CinecanalLA.png" group-title="Entretenimiento",Cinecanal
+http://45.162.193.35/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Comedy_Central_2018.webp" group-title="Comedia",Comedy Central
+http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/2024_Disney_Jr._Logo.svg.png" group-title="Infantil",Disney Junior
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-id="FX.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/FX_Logo_2023.svg.png" group-title="Entretenimiento",FX
+http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Ovacion_Radio_logo.webp" group-title="Deportes",Ovacion TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele6.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TV6_Logo_2022.svg.png" group-title="General",Tele 6
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 tvg-id="TelemundoInternacional.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo Internacional
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="UCLTV.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/UCL_Televisi%C3%B3n.png" group-title="General",UCL TV
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
