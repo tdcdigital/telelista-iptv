@@ -15,6 +15,8 @@ http://45.185.163.75:8000/play/a016/index.m3u8
 http://72.1.184.5:8089/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Ovacion_Radio_logo.webp" group-title="Deportes",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Space.uy" tvg-logo="https://github.com/tdcdigital/telelista-iptv/blob/main/logotipos/SpaceLogo.svg.png?raw=true" group-title="Entretenimiento",Space
+http://138.121.15.230:9002/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="Tele6.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TV6_Logo_2022.svg.png" group-title="General",Tele 6
 https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo Internacional
