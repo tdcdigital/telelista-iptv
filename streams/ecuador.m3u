@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXN.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/2018_Animal_Planet_logo.svg.png" group-title="Cultura",Animal Planet
+http://138.121.15.230:9002/ANIMAL-PLANET/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/CinecanalLA.png" group-title="Entretenimiento",Cinecanal
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="EcotelTV.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/unnamed%20(35).png" group-title="General",Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/EcuadorTV_logo.png" group-title="General",Ecuador TV
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:-1 tvg-id="ESPN2.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
+http://138.121.15.230:9002/ESPN-2/index.m3u8
+#EXTINF:-1 tvg-id="FX.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/FX_Logo_2023.svg.png" group-title="Entretenimiento",FX
+http://138.121.15.230:9002/FX/index.m3u8
+#EXTINF:-1 tvg-id="Gamavision.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Nuevologo-Gamavisi%253Fn.webp" group-title="General",Gamavision
+https://stream.esradioecuador.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Multicanal.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/images%20(82).jpeg" group-title="General",Multicanal
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="NationalGeográfic.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/National-Geographic-Logo.svg%20(1).png" group-title="Cultura",National Geográfic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="StarChannel.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Star_Channel_2020.svg.png" group-title="Entretenimiento",Star Channel
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/images%20(83).jpeg" group-title="General",TC Televisión
+http://45.224.97.181:9999/TC/index.m3u8
+#EXTINF:-1 tvg-id="TCM.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TCM_Latam_logo.svg.png" group-title="Entretenimiento",TCM
+http://138.121.15.230:9002/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TNT_Logo_2016.svg.png" group-title="Entretenimiento",TNT
+http://138.121.15.230:9002/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TNTSeries.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TNT_Series_2025.svg.png" group-title="Entretenimiento",TNT Series
+http://138.121.15.230:9002/TNT-SERIES/index.m3u8
+#EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TVC_Logo.png" group-title="General",TVC
+http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-id="UniversalTV.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Universal_TV_logo.svg.webp" group-title="Entretenimiento",Universal TV
+http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
