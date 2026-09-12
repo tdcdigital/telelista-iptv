@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AXN.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
-http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/2018_Animal_Planet_logo.svg.png" group-title="Cultura",Animal Planet
 http://138.121.15.230:9002/ANIMAL-PLANET/index.m3u8
+#EXTINF:-1 tvg-id="AXN.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
+http://138.121.15.230:9002/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/CinecanalLA.png" group-title="Entretenimiento",Cinecanal
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-id="EcotelTV.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/unnamed%20(35).png" group-title="General",Ecotel TV
