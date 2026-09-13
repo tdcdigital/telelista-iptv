@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo_de_ATB_Bolivia_desde_2026..png" group-title="General",ATB
+https://rtp.noxun.net/hls720/stream3.m3u8
+#EXTINF:-1 tvg-id="AXN.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-id="Cinecanal.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/CinecanalLA.png" group-title="Entretenimiento",Cinecanal
+http://45.162.193.35/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="Discovery.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/2019_Discovery_logo.svg.png" group-title="Cultura",Discovery
+https://streamer.metronethn.com/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="FX.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/FX_Logo_2023.svg.png" group-title="Entretenimiento",FX
+http://45.162.193.35/FX/index.m3u8
+#EXTINF:-1 tvg-id="MTV.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/MTV_2021_Retro.webp" group-title="Música",MTV
+http://179.60.51.134:8888/MTV/index.m3u8
+#EXTINF:-1 tvg-id="Nick.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Nickelodeon_2023_logo.svg.png" group-title="Infantil",Nick
+http://177.234.249.178:8888/NICK/index.m3u8
+#EXTINF:-1 tvg-id="Nickjunior.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Nick_Jr._logo_2023.svg.png" group-title="Infantil",Nick JR.
+http://177.234.249.178:8888/NICK-JR/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Red_Uno_actual.svg.webp" group-title="General",Red Uno
+http://190.181.18.82:4111/play/a006/index.m3u8
+#EXTINF:-1 tvg-id="Space.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/SpaceLogo.svg.png" group-title="Entretenimiento",Space
+http://138.121.15.230:9002/SPACE/index.m3u8
+#EXTINF:-1 tvg-id="TDT.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TDT_Colombia_logo.svg%20(2).png" group-title="General",TDT
+https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Tigo_Sports_2025%20(1).png" group-title="Deportes",Tigo Sports Bolivia
+https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
+#EXTINF:-1 tvg-id="TNT.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TNT_Logo_2016.svg.png" group-title="Entretenimiento",TNT
+http://138.121.15.230:9002/TNT/index.m3u8
+#EXTINF:-1 tvg-id="UnitelCochabamba.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Unitel_logo.png" group-title="General",Unitel Cochabamba
+https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8
+#EXTINF:-1 tvg-id="UnitellaPaz.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Unitel_logo.png" group-title="General",Unitel la Paz
+https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Unitel_logo.png" group-title="General",Unitel Santa Cruz
+https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
