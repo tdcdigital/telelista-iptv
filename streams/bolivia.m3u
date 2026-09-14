@@ -21,6 +21,8 @@ http://190.181.18.82:4111/play/a006/index.m3u8
 http://138.121.15.230:9002/SPACE/index.m3u8
 #EXTINF:-1 tvg-id="TDT.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TDT_Colombia_logo.svg%20(2).png" group-title="General",TDT
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-id="Tele6.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TV6_Logo_2022.svg.png" group-title="General",Tele 6
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Tigo_Sports_2025%20(1).png" group-title="Deportes",Tigo Sports Bolivia
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 #EXTINF:-1 tvg-id="TNT.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TNT_Logo_2016.svg.png" group-title="Entretenimiento",TNT
