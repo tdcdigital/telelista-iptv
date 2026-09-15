@@ -25,6 +25,8 @@ https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/CinecanalLA.png" group-title="Entretenimiento",Cinecanal
 http://45.162.193.35/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Cinemax_LA.png" group-title="Entretenimiento",Cinemax
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Comedy_Central_2018.webp" group-title="Comedia",Comedy Central
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/2019_Discovery_logo.svg.png" group-title="Cultura",Discovery
