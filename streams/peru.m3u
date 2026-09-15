@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXN.pe" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/axn.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax.pe" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Cinemax_LA.png" group-title="Entretenimiento",Cinemax
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinemax.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Ovacion_Radio_logo.webp" group-title="Deportes",Ovación TV
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Space.pe" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/SpaceLogo.svg.png" group-title="Entretenimiento",Space
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/space.stream/playlist.m3u8
