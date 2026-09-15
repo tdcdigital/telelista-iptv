@@ -3,6 +3,8 @@
 http://138.121.15.230:9002/ANIMAL-PLANET/index.m3u8
 #EXTINF:-1 tvg-id="AMC.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AMC_logo_2019.svg%20(1).png" group-title="Entretenimiento",AMC
 http://138.121.15.230:9002/AMC/index.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/ANTV_Colombia_Logo.png" group-title="General",Autoridad nacional de televisión
+https://stmv.panel.grupolimalive.com/antv/antv/playlist.m3u8
 #EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo_de_ATB_Bolivia_desde_2026..png" group-title="General",ATB
 https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 tvg-id="AXN.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
@@ -39,6 +41,8 @@ http://138.121.15.230:9002/ESPN-2/index.m3u8
 http://138.121.15.230:9002/FX/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Nuevologo-Gamavisi%253Fn.webp" group-title="General",Gamavision
 https://stream.esradioecuador.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo-Globovisi%C3%B3n.png" group-title="General",Globovisión
+http://181.78.8.199:8000/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="MTV.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/MTV_2021_Retro.webp" group-title="Música",MTV
 http://179.60.51.134:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-id="Multicanal.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/images%20(82).jpeg" group-title="General",Multicanal
@@ -75,6 +79,10 @@ https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 https://liveingesta118.cdnmedia.tv/tvtelemedellinlive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.la" tvg-logo="https://raw.githubusercontent.comtdcdigital/telelista-iptv/refs/heads/main/logotipos/Telemundo_logo_2018.svg.png" group-title="Entretenimiento",Telemundo Internacional
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TeleSUR_logo_(textless).svg.png" group-title="Noticias",Telesur
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telesur.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesurHD.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Telesur_HD_%25282017%2529.webp" group-title="Noticias",Telesur HD
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Tigo_Sports_2025%20(1).png" group-title="Deportes",Tigo Sports Bolivia
 https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8
 #EXTINF:-1 tvg-id="TNT.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TNT_Logo_2016.svg.png" group-title="Entretenimiento",TNT
@@ -83,6 +91,8 @@ http://138.121.15.230:9002/TNT/index.m3u8
 http://138.121.15.230:9002/TNT-SERIES/index.m3u8
 #EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TVC_Logo.png" group-title="General",TVC
 http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-id="TVES.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo_de_tves_2010-actual.webp" group-title="General",TVES
+https://ls.tves.gob.ve/hls/tves.m3u8
 #EXTINF:-1 tvg-id="UCLTV.uy" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/UCL_Televisi%C3%B3n.png" group-title="General",UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-id="UnitelCochabamba.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Unitel_logo.png" group-title="General",Unitel Cochabamba
@@ -93,3 +103,5 @@ https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
 #EXTINF:-1 tvg-id="UniversalTV.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Universal_TV_logo.svg.webp" group-title="Entretenimiento",Universal TV
 http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="Venevision.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logotipo_de_Venevisi%C3%B3n_(alternate_blue_version).svg%20(1).png" group-title="General",Venevisión
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
