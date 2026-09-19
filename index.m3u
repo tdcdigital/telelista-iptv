@@ -57,7 +57,7 @@ http://177.234.249.178:8888/NICK/index.m3u8
 http://177.234.249.178:8888/NICK-JR/index.m3u8
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Ovacion_Radio_logo.webp" group-title="Deportes",Ovacion TV
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioyTelevisionMarti.cu" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Radio-TV-Mart%C3%AD-Logo.svg/3840px-Radio-TV-Mart%C3%AD-Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="General",Radio y Television Marti
+#EXTINF:-1 tvg-id="RadioyTelevisionMarti.cu" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Radio-TV-Mart%C3%AD-Logo.svg.png" group-title="General",Radio y Television Marti
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Red_Uno_actual.svg.webp" group-title="General",Red Uno
 http://190.181.18.82:4111/play/a006/index.m3u8
