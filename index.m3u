@@ -5,6 +5,8 @@ http://138.121.15.230:9002/ANIMAL-PLANET/index.m3u8
 http://138.121.15.230:9002/AMC/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/ANTV_Colombia_Logo.png" group-title="General",Autoridad nacional de televisión
 https://stmv.panel.grupolimalive.com/antv/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena7.rd" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Antena_Latina_2016.webp" group-title="General",Antena 7
+https://hls.tvabierta.net/hls/007.m3u8
 #EXTINF:-1 tvg-id="ATB.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo_de_ATB_Bolivia_desde_2026..png" group-title="General",ATB
 https://rtp.noxun.net/hls720/stream3.m3u8
 #EXTINF:-1 tvg-id="AXN.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/AXN_logo_(2015).svg.webp" group-title="Entretenimiento",AXN
@@ -75,6 +77,8 @@ http://138.121.15.230:9002/TCM/index.m3u8
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Teleantioquia-2024Nuevo.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Teleantioquia
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesistema.rd" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/telesistema-canal-11-en-vivo-online.png" group-title="General",Telesistema
+https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
 #EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/1000090286.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" group-title="General",Telecafe
 https://liveingesta318.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele6.bo" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-itv/refs/heads/main/logotipos/TV6_Logo_2022.svg.png" group-title="General",Tele 6
@@ -93,6 +97,8 @@ https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/ind
 http://138.121.15.230:9002/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeries.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TNT_Series_2025.svg.png" group-title="Entretenimiento",TNT Series
 http://138.121.15.230:9002/TNT-SERIES/index.m3u8
+#EXTINF:-1 tvg-id="Teleuniverso.rd" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo_tu-2023.webp" group-title="General",Teleuniverso
+https://hls.tvabierta.net/hls/029.m3u8
 #EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/TVC_Logo.png" group-title="General",TVC
 http://45.224.97.181:9999/TVC/index.m3u8
 #EXTINF:-1 tvg-id="TVES.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo_de_tves_2010-actual.webp" group-title="General",TVES
