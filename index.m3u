@@ -47,7 +47,7 @@ http://138.121.15.230:9002/FX/index.m3u8
 https://stream.esradioecuador.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo-Globovisi%C3%B3n.png" group-title="General",Globovisión
 http://181.78.8.199:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-id="HaitiNews.ht" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/51bJg%2Bc7vRL.png" group-title="News",Haití News
+#EXTINF:-1 tvg-id="HaitiNews.ht" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/51bJg%2Bc7vRL.png" group-title="Noticias",Haití News
 https://cdn.haititivi.com/website/haitinews/index.m3u8
 #EXTINF:-1 tvg-id="MTV.la" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/MTV_2021_Retro.webp" group-title="Música",MTV
 http://179.60.51.134:8888/MTV/index.m3u8
