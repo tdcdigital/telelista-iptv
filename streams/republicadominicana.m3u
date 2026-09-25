@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Antena7.rd" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Antena_Latina_2016.webp" group-title="General",Antena 7
+https://hls.tvabierta.net/hls/007.m3u8
+#EXTINF:-1 tvg-id="Telesistema.rd" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/telesistema-canal-11-en-vivo-online.png" group-title="General",Telesistema
+https://cdn4.wind.do/streams/telesistema/telesistema_master.m3u8
+#EXTINF:-1 tvg-id="Teleuniverso.rd" tvg-logo="https://raw.githubusercontent.com/tdcdigital/telelista-iptv/refs/heads/main/logotipos/Logo_tu-2023.webp" group-title="General",Teleuniverso
+https://hls.tvabierta.net/hls/029.m3u8
